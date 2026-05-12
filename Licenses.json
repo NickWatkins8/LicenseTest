@@ -1,0 +1,12 @@
+{
+  "licenses": [
+    {
+      "license_key": "DBC-TEST-1234",
+      "customer": "Diagnostic Biochips",
+      "machine_id": "PASTE-YOUR-MACHINE-ID-HERE",
+      "status": "active",
+      "expires": "2027-05-12",
+      "features": ["basic", "analysis", "export"]
+    }
+  ]
+}
