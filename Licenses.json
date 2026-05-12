@@ -1,7 +1,7 @@
 {
   "licenses": [
     {
-      "license_key": "DBC-TEST-1234",
+      "license_key": "DBC-TEST-1change234",
       "customer": "Diagnostic Biochips",
       "machine_id": "dumb-sniff",
       "status": "active",
