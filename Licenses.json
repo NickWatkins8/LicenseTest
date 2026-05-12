@@ -3,7 +3,7 @@
     {
       "license_key": "DBC-TEST-1234",
       "customer": "Diagnostic Biochips",
-      "machine_id": "PASTE-YOUR-MACHINE-ID-HERE",
+      "machine_id": "830C-81E9-EB5D-C711",
       "status": "active",
       "expires": "2027-05-12",
       "features": ["basic", "analysis", "export"]
